@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+}
+header{
+background-color:bisque;
+}
+h1{
+color:gold;
+text-align:center;
+}
+
+footer p{
+    border:2px solid black;
+}
